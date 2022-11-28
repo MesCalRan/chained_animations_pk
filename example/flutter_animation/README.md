@@ -1,3 +1,3 @@
 # flutter_animation
 
-Flutter Animations Module
+Flutter Animations Example
