@@ -1,3 +1,3 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+Chain animations using custom controllers (must use built-in effects in package)
